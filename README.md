@@ -2,7 +2,10 @@
 
 <div align="center">
   
+  
   ### Backend Engineer | Building Scalable Solutions
+
+
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SalehEnab?t=yuvZ5GztoIJAApnQW7ckIQ&s=09)
@@ -17,12 +20,15 @@
 
 I'm a passionate **Backend Engineer** specializing in building robust, scalable server-side applications. Currently pursuing my Bachelor's in Computer and Control Systems Engineering at Mansoura University (GPA: 3.6/4.0), I thrive on solving complex problems and optimizing system performance.
 
-- 🔭 Currently working as **Node.js Supervisor** at IEEE Mansoura Chapter
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+- 🔭 Currently Volunteering as **Node.js Supervisor** at IEEE Mansoura Chapter
 - 🌱 Diving deep into **microservices architecture**
 - 💡 Passionate about **API design**, **database optimization**, and **system architecture**
 - 🎯 Always eager to learn cutting-edge backend technologies
 - 📫 Reach me at: **salehenab850@gmail.com**
 
+  <br>
 ---
 
 ## 💼 Professional Experience
