@@ -32,7 +32,7 @@ I'm a passionate **Backend Engineer** specializing in building robust, scalable 
   <br>
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🎓 Node.js Supervisor | [IEEE Mansoura Chapter](https://www.ieeemansb.org/)
 **Sep 2024 - Sep 2025**
@@ -40,7 +40,7 @@ I'm a passionate **Backend Engineer** specializing in building robust, scalable 
 - 👥 Led committee management and delegated tasks to optimize team productivity
 - 📊 Evaluated performance metrics and provided constructive feedback
 
-### 💻 Back-End Developer | [CAT Reloaded](https://catreloaded.org/)
+### 💻 Back-End Member | [CAT Reloaded](https://catreloaded.org/)
 **Oct 2023 - Aug 2024**
 - 🌐 Mastered network fundamentals and HTTP protocol implementations
 - ⚡ Built RESTful APIs with Express.js, implementing efficient middleware and routing
