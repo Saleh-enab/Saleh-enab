@@ -58,6 +58,7 @@ I'm a passionate **Backend Engineer** specializing in building robust, scalable 
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+[![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=fff)](#)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -66,6 +67,7 @@ I'm a passionate **Backend Engineer** specializing in building robust, scalable 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000)](#)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
@@ -112,13 +114,13 @@ const salehEnab = {
   technologies: {
     backEnd: {
       runtime: ["Node.js"],
-      frameworks: ["Express.js"],
+      frameworks: ["Express.js", "Hono.js"],
       realtime: ["Socket.io"],
       api: ["RESTful", "GraphQL"]
     },
     databases: ["PostgreSQL", "MongoDB", "SQL Server", "Redis"],
     devOps: ["Docker", "Git"],
-    tools: ["Prisma", "Postman", "Swagger"]
+    tools: ["Prisma", "Drizzle", "Postman", "Swagger"]
   },
   currentFocus: "Building scalable backend systems and exploring cloud architectures"
 };
