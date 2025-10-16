@@ -81,57 +81,12 @@ I'm a passionate **Backend Engineer** specializing in building robust, scalable 
 
 ---
 
-## 🌟 Featured Projects
-
-### 🍳 [Sherbiny Kitchen](https://github.com/Saleh-enab/Sherbiny-Kitchen)
-**AI-Powered Recipe Generator**
-
-An intelligent web application that creates personalized recipes based on available ingredients using Google Gemini AI.
-
-**Tech Stack:**
-- **Backend:** Node.js, Express.js, TypeScript
-- **Database:** PostgreSQL with Prisma ORM, Redis for caching
-- **AI Integration:** Google Gemini API
-- **Security:** JWT authentication, Bcrypt encryption, Nodemailer verification
-- **Architecture:** Monorepo managed via npm workspaces
-
-**Key Features:**
-- 🤖 AI-driven recipe generation
-- 🔐 Secure user authentication with email verification
-- 📧 Password reset functionality
-- ⚡ Redis caching for optimal performance
-
----
-
-### 🎬 [Cinema API](https://github.com/Saleh-enab/Cinema-API)
-**Scalable Movie Booking System**
-
-A production-ready RESTful API for cinema operations with robust security and efficient data management.
-
-**Tech Stack:**
-- **Backend:** Node.js, Express.js, TypeScript
-- **Database:** PostgreSQL with Prisma ORM
-- **Security:** JWT, Bcrypt, cookie-parser
-- **File Management:** Multer, Cloudinary, Streamifier
-- **Validation:** Zod schema validation
-
-**Key Features:**
-- 🎟️ Comprehensive ticket booking system
-- 🎥 Movie listings and management
-- 👤 Secure user authentication
-- ☁️ Cloud-based image storage
-- ✅ Input validation and sanitization
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-enab&layout=compact&theme=tokyonight&hide_border=true)
     
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saleh-enab&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
