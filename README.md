@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Saleh+Enab+%F0%9F%91%8B;Backend+Engineer;Building+Scalable+%26+High-Performance+APIs;Passionate+About+Clean+Code+%26+Architecture)](https://git.io/typing-svg)
 
-### 🚀 Backend Engineer | Building Scalable Solutions
+###  Backend Engineer
 
-_Crafting robust server-side architectures that power modern applications_
+_Diagnosed with systems design obsession_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SalehEnab?t=yuvZ5GztoIJAApnQW7ckIQ&s=09)
