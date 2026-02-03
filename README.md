@@ -24,7 +24,7 @@ const salehEnab = {
     education: {
         degree: "B.Sc. Computer & Control Systems Engineering",
         university: "Mansoura University",
-        gpa: "3.6/4.0",
+        gpa: "3.7/4.0",
         graduation: 2026,
     },
     passion: [
