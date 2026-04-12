@@ -56,9 +56,9 @@ const salehEnab = {
 - ### Frameworks & Libraries
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 - ### Databases & ORMs
 
@@ -76,6 +76,7 @@ const salehEnab = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -87,7 +88,7 @@ const salehEnab = {
 
 -    Mansoura University
 -    2021 - 2026
--    GPA: 3.6/4.0
+-    GPA: 3.7/4.0
 -    Focus: Software Engineering, System Architecture, Database Systems
 
 
