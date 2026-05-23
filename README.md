@@ -4,8 +4,6 @@
 
 ###  Backend Engineer
 
-_Diagnosed with systems design obsession_
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SalehEnab?t=yuvZ5GztoIJAApnQW7ckIQ&s=09)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saleh-enab)
@@ -33,8 +31,6 @@ const salehEnab = {
         "Designing clean APIs",
         "Exploring microservices architecture",
     ],
-    currentlyLearning: ["Kubernetes", "System Design", "Cloud Architecture"],
-    askMeAbout: ["Node.js", "PostgreSQL", "API Design"],
 };
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -50,7 +46,6 @@ const salehEnab = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 
 - ### Frameworks & Libraries
