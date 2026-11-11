@@ -1,114 +1,112 @@
 <div align="center">
 
+# Saleh Enab
 
+<a href="https://github.com/Saleh-enab">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Backend+Engineer;Scalable+APIs+%26+Multi-Tenant+Systems;Node.js+%C2%B7+Go+%C2%B7+PostgreSQL+%C2%B7+Redis;System+Design+%26+Distributed+Systems" alt="Backend Engineer" />
+</a>
 
-###  Backend Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SalehEnab?t=yuvZ5GztoIJAApnQW7ckIQ&s=09)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saleh-enab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehenab850@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SalehEnab)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/saleh_enab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salehenab850@gmail.com)
 
 </div>
 
-## About Me
+---
 
-```typescript
-const salehEnab = {
-    title: "Backend Engineer",
-    location: "Egypt 🇪🇬",
-    education: {
-        degree: "B.Sc. Computer & Control Systems Engineering",
-        university: "Mansoura University",
-        gpa: "3.7/4.0",
-        graduation: 2026,
-    },
-    passion: [
-        "Building scalable backend systems",
-        "Optimizing database performance",
-        "Designing clean APIs",
-        "Exploring microservices architecture",
-    ],
+## 👨‍💻 About Me
+
+```ts
+const saleh = {
+  role: "Backend Engineer",
+  location: "Egypt",
+  education: "B.Sc. Computer & Control Systems Engineering, Mansoura University (2026, GPA 3.7/4.0)",
+  focus: ["Backend Architecture", "System Design", "Database Design", "Distributed Systems"],
+  currently: ["Backend Developer @ Endorphins Art Labs", "Technical Supervisor @ Eyouth"],
 };
 ```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 💼 Experience
 
-## Tech Arsenal
+**Backend Developer** · Endorphins Art Labs · Jul 2026 – Present
 
-<div>
+- Built scalable APIs and multi-tenant systems with PostgreSQL, Redis and BullMQ serving 5,000+ client systems.
+- Improved performance through k6 load testing, profiling, Redis caching and automated deployment pipelines.
+- Developed internal tools and workflows, including Meta APIs integrations, monitoring, documentation and environment management for 100+ users.
 
-- ### Languages & Core Technologies
+**Technical Supervisor** · Eyouth · Apr 2026 – Present
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
+- Build and maintain internal systems supporting 15+ operations leads, 15+ supervisors and 400+ coordinators.
+- Streamline session-management workflows across 2,000+ sessions.
+- Replace manual and Excel-based processes with dedicated internal platforms.
 
-- ### Frameworks & Libraries
+## 🌍 Open Source
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+**[Orangu](https://github.com/mnemosyne-systems/orangu)**
 
-- ### Databases & ORMs
+- Docker/Podman deployment support, bundling the coordinator, server and configured models into a single image ([#291](https://github.com/mnemosyne-systems/orangu/pull/291))
+- Prometheus observability with a dedicated metrics endpoint and configurable port ([#271](https://github.com/mnemosyne-systems/orangu/pull/271))
+- Model management and build traceability: configurable download permissions, Hugging Face URL handling and Git commit identification ([#308](https://github.com/mnemosyne-systems/orangu/pull/308), [#309](https://github.com/mnemosyne-systems/orangu/pull/309), [#310](https://github.com/mnemosyne-systems/orangu/pull/310))
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+## 🚀 Featured Projects
 
-- ### DevOps & Tools
+| Project | Description | Stack |
+| --- | --- | --- |
+| [goredis](https://github.com/Saleh-enab/goredis) | Lightweight Redis clone with a custom RESP parser, concurrent TCP server and AOF/RDB persistence. | Go, TCP, Goroutines, Channels |
+| [Event-Flow](https://github.com/Saleh-enab/Event-Flow) | Event management backend on NestJS microservices behind an API gateway, with ticketing and real-time notifications. | NestJS, PostgreSQL, Drizzle, Redis, Kafka, Docker |
+| F&B Ordering System | High-traffic ordering platform for brands such as Roshdy 3al Saree3 and Bremer, with role-based dashboards, Paymob payments and background jobs. | Node.js, PostgreSQL, Redis, BullMQ |
+| Operations Management System | Operations platform for the DECI project serving 400+ coordinators and 60,000+ students, with scheduling and automated payment tracking for 5,000+ sessions. | Express, React, Supabase |
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=for-the-badge&logo=docker&logoColor=white)
+## ✍️ Writing
 
-</div>
+- [Building a Redis Clone in Go](https://dev.to/saleh_enab/building-a-redis-clone-in-go-22) — the design behind goredis: RESP parsing, concurrency and persistence.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🛠️ Tech Stack
 
-## Education
+**Languages**
 
-**🎓 Bachelor of Computer & Control Systems Engineering**
+<img src="https://skillicons.dev/icons?i=ts,js,go,cpp,rust&theme=dark" alt="Languages" />
 
--    Mansoura University
--    2021 - 2026
--    GPA: 3.7/4.0
--    Focus: Software Engineering, System Architecture, Database Systems
+**Backend & Databases**
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,prisma&theme=dark" alt="Backend and databases" />
 
+**Messaging, DevOps & Tooling**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,kubernetes,githubactions,nginx,prometheus,git,postman&theme=dark" alt="Messaging, DevOps and tooling" />
 
-## Let's Connect & Collaborate!
+**Also**
 
-<div>
+![Hono](https://img.shields.io/badge/Hono-1A1B26?style=flat-square&logo=hono&logoColor=E36002)
+![Drizzle](https://img.shields.io/badge/Drizzle-1A1B26?style=flat-square&logo=drizzle&logoColor=C5F74F)
+![BullMQ](https://img.shields.io/badge/BullMQ-1A1B26?style=flat-square&logo=redis&logoColor=DC382D)
+![pg-boss](https://img.shields.io/badge/pg--boss-1A1B26?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-1A1B26?style=flat-square&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-1A1B26?style=flat-square&logo=socketdotio&logoColor=7AA2F7)
+![SSE](https://img.shields.io/badge/SSE-1A1B26?style=flat-square&logo=html5&logoColor=E34F26)
+![k6](https://img.shields.io/badge/k6-1A1B26?style=flat-square&logo=k6&logoColor=7D64FF)
+![PM2](https://img.shields.io/badge/PM2-1A1B26?style=flat-square&logo=pm2&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-1A1B26?style=flat-square&logo=docker&logoColor=2496ED)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-1A1B26?style=flat-square&logo=openapiinitiative&logoColor=6BA539)
+![OCI](https://img.shields.io/badge/OCI-1A1B26?style=flat-square&logo=opencontainersinitiative&logoColor=white)
 
-I'm always excited to connect with fellow developers, discuss technology, or explore collaboration opportunities!
+## 🎓 Education & Certificates
 
-**💬 Open to:**
+- **B.Sc. Computer & Control Systems Engineering**, Mansoura University · 2021 – 2026 · GPA 3.7/4.0
+- [Docker Fundamentals](https://learn.kodekloud.com/user/certificate/dd3e1abc-a5df-4017-ab8b-1bd91415cc55) — KodeKloud
+- [REST API (Intermediate)](https://www.hackerrank.com/certificates/59f0b3e676ba) — HackerRank
+- [Back End Fundamentals](https://www.udemy.com/certificate/UC-43acea8c-ebc9-402d-ab22-e2237c383141/) — Udemy
 
--   Backend development opportunities
--   Open source collaborations
--   Mentorship and learning from experienced developers
-</div>
+---
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SalehEnab?t=yuvZ5GztoIJAApnQW7ckIQ&s=09)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/SalehEnab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salehenab850@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+Open to backend roles, open-source collaboration and interesting system-design problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-enab2/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SalehEnab)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/SalehEnab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salehenab850@gmail.com)
+
 </div>
