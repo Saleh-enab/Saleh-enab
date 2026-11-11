@@ -27,6 +27,8 @@ const saleh = {
 };
 ```
 
+---
+
 ## 💼 Experience
 
 **Backend Developer** · Endorphins Art Labs · Jul 2026 – Present
@@ -41,6 +43,8 @@ const saleh = {
 - Streamline session-management workflows across 2,000+ sessions.
 - Replace manual and Excel-based processes with dedicated internal platforms.
 
+---
+
 ## 🌍 Open Source
 
 **[Orangu](https://github.com/mnemosyne-systems/orangu)**
@@ -48,6 +52,8 @@ const saleh = {
 - Docker/Podman deployment support, bundling the coordinator, server and configured models into a single image ([#291](https://github.com/mnemosyne-systems/orangu/pull/291))
 - Prometheus observability with a dedicated metrics endpoint and configurable port ([#271](https://github.com/mnemosyne-systems/orangu/pull/271))
 - Model management and build traceability: configurable download permissions, Hugging Face URL handling and Git commit identification ([#308](https://github.com/mnemosyne-systems/orangu/pull/308), [#309](https://github.com/mnemosyne-systems/orangu/pull/309), [#310](https://github.com/mnemosyne-systems/orangu/pull/310))
+
+---
 
 ## 🚀 Featured Projects
 
@@ -58,9 +64,13 @@ const saleh = {
 | F&B Ordering System | High-traffic ordering platform for brands such as Roshdy 3al Saree3 and Bremer, with role-based dashboards, Paymob payments and background jobs. | Node.js, PostgreSQL, Redis, BullMQ |
 | Operations Management System | Operations platform for the DECI project serving 400+ coordinators and 60,000+ students, with scheduling and automated payment tracking for 5,000+ sessions. | Express, React, Supabase |
 
+---
+
 ## ✍️ Writing
 
 - [Building a Redis Clone in Go](https://dev.to/saleh_enab/building-a-redis-clone-in-go-22) — the design behind goredis: RESP parsing, concurrency and persistence.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -90,6 +100,8 @@ const saleh = {
 ![Dokploy](https://img.shields.io/badge/Dokploy-1A1B26?style=flat-square&logo=docker&logoColor=2496ED)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-1A1B26?style=flat-square&logo=openapiinitiative&logoColor=6BA539)
 ![OCI](https://img.shields.io/badge/OCI-1A1B26?style=flat-square&logo=opencontainersinitiative&logoColor=white)
+
+---
 
 ## 🎓 Education & Certificates
 
